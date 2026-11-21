@@ -1,0 +1,22 @@
+{
+  "wheel_id": 945,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-111",
+  "project": "mortgage-brokers-ipswich-before-you-start-1b3ced048b64041372d1e",
+  "parent_t1_ref": "homeloanbrokeripswich-155",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage brokers ipswich before you start",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-ipswich-before-you-start-1b3ced048b64041372d1e/",
+  "tier": "T2",
+  "writeback_nonce": "2b992d982176a6cc",
+  "links": [
+    {
+      "target_url": "http://mortgage-brokers-ipswich-myths-77d566fa0da07a775ad0cb3c7846a3e5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
